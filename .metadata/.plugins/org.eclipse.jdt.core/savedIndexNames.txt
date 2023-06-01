@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+Z:\LIP1\lucas_morais\comercio\.metadata\.plugins\org.eclipse.jdt.core
+1067094681.index
+2178751970.index
+1865797976.index
+2206546891.index
