@@ -8,7 +8,7 @@ public class ComercioApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ComercioApplication.class, args);
-		System.out.println("lucas agora ta no git hub");
+		System.out.println("lucas agora ta no git hub;");
 	}
 
 }
